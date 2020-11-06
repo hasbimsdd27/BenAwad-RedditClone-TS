@@ -26,9 +26,11 @@
     "@mikro-orm/migrations": "^4.2.3",
     "@mikro-orm/mysql": "^4.2.3",
     "apollo-server-express": "^2.19.0",
+    "class-validator": "^0.12.2",
     "express": "^4.17.1",
     "graphql": "^15.4.0",
     "mysql2": "^2.2.5",
+    "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1"
   },
   "mikro-orm": {
